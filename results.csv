@@ -1,0 +1,37 @@
+Query,Sentence Number,Match Sentence,Similarity
+Selada Hijau 500 gr,1,Selada Keriting 500 Gram,0.9269876301669274
+Selada Hijau 500 gr,2,Sawi Hijau 500 Gram,0.9232149091034207
+Selada Hijau 500 gr,3,Tomat Hijau 500 Gram,0.9126696726081106
+Selada Hijau 500 gr,4,Cabe Hijau Besar 500 Gram,0.9072474662001551
+Selada Hijau 500 gr,5,Terong Hijau Bulat 500 Gram,0.9056912463971034
+,,,
+Jamur Enoki 500 Gram,1,Jamur Putih 500 Gram,0.9417336396981542
+Jamur Enoki 500 Gram,2,Jeruk Nipis 500 Gram,0.9289749626514437
+Jamur Enoki 500 Gram,3,Jamur Putih 250 Gram,0.9229392264117314
+Jamur Enoki 500 Gram,4,Kencur 500 Gram,0.9201692372042483
+Jamur Enoki 500 Gram,5,Jeruk Peras 500 Gram,0.9182048504688718
+,,,
+Cabe Hijau Besar 500 Gram,1,Cabe Hijau Besar 500 Gram,0.9999999999999991
+Cabe Hijau Besar 500 Gram,2,Cabe Hijau Keriting 500 Gram,0.9676444042059378
+Cabe Hijau Besar 500 Gram,3,Cabe Merah Besar 500 Gram,0.9630289976697607
+Cabe Hijau Besar 500 Gram,4,Cabe Rawit Hijau 500 Gram,0.9510841906733707
+Cabe Hijau Besar 500 Gram,5,Terong Hijau Bulat 500 Gram,0.9331690388308107
+,,,
+Ayam Negeri Utuh 1 Kg,1,Ayam Negeri 1 Kg Potong 12,0.9538641702725038
+Ayam Negeri Utuh 1 Kg,2,Ayam Negeri 1 kg potong 4,0.9439222807366365
+Ayam Negeri Utuh 1 Kg,3,Jagung Manis 1 kg,0.9086589010737826
+Ayam Negeri Utuh 1 Kg,4,Kacang Tanah 1 Kg,0.9060565359374736
+Ayam Negeri Utuh 1 Kg,5,Salak Pondoh 1 kg,0.904510710130388
+,,,
+Kacang Hijau 250 gr,1,Kacang Hijau 250 Gram,0.9817213184150111
+Kacang Hijau 250 gr,2,Kacang Tolo Tolo 250 Gram,0.9273547174904818
+Kacang Hijau 250 gr,3,Bayam Hijau 350 Gram,0.9195958747282216
+Kacang Hijau 250 gr,4,Kencur 250 Gram,0.9195481546173082
+Kacang Hijau 250 gr,5,Jahe Putih 250 Gram,0.918125517657558
+,,,
+Tomat 10 Kilo,1,Tomat Hijau 500 Gram,0.874997664556369
+Tomat 10 Kilo,2,Tomat Merah Sayur 500 Gram,0.8629819205138337
+Tomat 10 Kilo,3,Apel Manalagi 1 kg,0.8479878283091242
+Tomat 10 Kilo,4,Brokoli Lokal 1 kg,0.8431250480392101
+Tomat 10 Kilo,5,Katuk 250 Gram,0.8422399973552638
+,,,
